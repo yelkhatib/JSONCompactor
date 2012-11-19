@@ -1,0 +1,4 @@
+JSONCompactor
+=============
+
+Compress JSON files
